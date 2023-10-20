@@ -1,5 +1,5 @@
 .first{
-    background: url("/img/first1.png"), lightgray 50%;
+    background: url("./img/first1.png"), lightgray 50%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
